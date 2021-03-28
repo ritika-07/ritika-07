@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-### :wave: &nbsp; Hey, I'm Ritika Kayal!
+### :wave: &nbsp; Hey, I'm Ritika Kayal
 ### :book: &nbsp; I am a Computer Science major
 ### :computer: &nbsp; Check out https://ritika-07.github.io/portfolio/
 ### :e-mail: &nbsp; Reach out to me at ritikakayal07@gmail.com
