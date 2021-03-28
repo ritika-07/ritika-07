@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="/dp.png">
+&nbsp;
+
+&nbsp;
 
 ### :wave: &nbsp; Hey, I'm Ritika!
 ### :book: &nbsp; I am a Computer Science major
